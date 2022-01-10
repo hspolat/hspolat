@@ -17,6 +17,5 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hspolat&show_icons=true&locale=en&layout=compact" alt="hspolat" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=hspolat&show_icons=true&locale=en" alt="hspolat" /></p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-hspolat&color=green)
