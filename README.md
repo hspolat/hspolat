@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures on Freecodecamp and NodeJs on Patika.dev**
 
-- 👨‍💻 All of my projects are available at [https://hspolat.github.io/portfolio/](https://hspolat.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://hpportfolio.netlify.app/](https://hspolat.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
